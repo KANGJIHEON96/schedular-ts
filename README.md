@@ -1,3 +1,6 @@
+![React App - 프로필 1 - Microsoft​ Edge 2021-09-30 오후 1_54_34](https://user-images.githubusercontent.com/79817968/135389726-43792108-4e04-4fc1-ab00-3c06acb82f59.png)
+
+
 # TypeScript로 만들어본 간단한 일정 앱 입니다.
 
 # Getting Started with Create React App
